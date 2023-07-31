@@ -153,7 +153,7 @@ header {
 
 .features-section {
     padding: 20px var(--padding-inline-section) 0;
-    background-image: url(/asset/bg-card-section.png);
+    background-image: url(./asset/bg-card-section.png);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -203,7 +203,7 @@ header {
     height: 400px;
     background: black;
     transition: 0.2s ease-out;
-    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(/asset/examples-1.jpg);
+    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(./asset/examples-1.jpg);
     background-size: cover;
     border-radius: 10px;
 }
@@ -213,17 +213,17 @@ header {
 }
 
 .examples-card:nth-child(2) {
-    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(/asset/examples-2.jpg);
+    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(./asset/examples-2.jpg);
     background-size: cover;
 }
 
 .examples-card:nth-child(3) {
-    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(/asset/examples-3.jpg);
+    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(./asset/examples-3.jpg);
     background-size: cover;
 }
 
 .examples-card:nth-child(4) {
-    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(/asset/examples-4.jpg);
+    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(./asset/examples-4.jpg);
     background-size: cover;
 }
 
